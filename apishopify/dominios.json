@@ -1,0 +1,6 @@
+{
+    "dominios": [
+        {"nombre": "https://hbwzurich.myshopify.com", "api_key": "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"},
+        {"nombre": "https://relojesvitacura.myshopify.com", "api_key": "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"}
+    ]
+ }
